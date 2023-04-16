@@ -1,7 +1,7 @@
 # Trabalho Prático 3
 ## Info
-   Otávio Salomão Rocha // Turma M2
-   Discord: Lekaso#5775
+   Otávio Salomão Rocha // Turma M2 <br />
+   Discord: Lekaso#5775 <br />
    Email: otavio.sr@inf.ufpel.edu.br
  
 ## Mudanças Aplicadas
